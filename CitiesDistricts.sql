@@ -1,4 +1,4 @@
-USE u1836562_auth;
+USE _nameDatabase;
 
 CREATE TABLE CitiesTurkey
 (
